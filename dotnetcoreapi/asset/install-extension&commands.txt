@@ -1,0 +1,23 @@
+VC Code Extension::
+
+C#
+C# Dev Kit
+.Net Extension Pack
+.Net Install Tool
+Nuget Gallery
+Prettier
+Extension Pack By JosKreativ
+
+Nuget package:
+
+Microsoft.Extensions.Identity.Core
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.AspNetCore.Authentication.JwtBearer
+
+Migration:
+dotnet ef migrations add init
+dotnet ef database update
+
+
+Terminal Commands::
+
